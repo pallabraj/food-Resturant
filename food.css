@@ -1,0 +1,40 @@
+body{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0%;
+
+}
+h1{
+    font-size: 50px;
+    color: orangered;
+}
+h2{
+    font-size: 40px;
+}
+.organic{
+    color: green;
+}
+section{
+    display: flex;
+}
+.half-dot{
+    width: 50%;
+    padding-left: 4%;
+    
+}
+.half-dot img{
+    width: 100%;
+    
+}
+.click-button{
+    text-decoration: none;
+    background-color: goldenrod;
+    padding: 10px 20px;
+    color: bisque;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
