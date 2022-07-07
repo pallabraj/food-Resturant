@@ -16,6 +16,7 @@ h2{
 }
 section{
     display: flex;
+    margin: 100px;
 }
 .half-dot{
     width: 50%;
@@ -37,4 +38,7 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.book-order{
+    margin-right: 2px solid green;
 }
